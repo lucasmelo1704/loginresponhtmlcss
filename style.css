@@ -144,6 +144,10 @@ body {
     right: -35px;
 }
 
+.termos {
+    accent-color: #0056fb;
+}
+
 @media (max-width: 700px) {
     .container {
         flex-direction: column;
